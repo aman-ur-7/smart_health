@@ -23,7 +23,7 @@ const App = () => {
         );
       case "Patien":
         return <div>Patients Content</div>;
-      case "Doctors":
+      case "Doctor":
         return <div>Doctors Content</div>;
       case "Appointments":
         return (
@@ -37,7 +37,7 @@ const App = () => {
             <DiseasePrediction />
           </div>
         );
-      case "Medical Inventory":
+      case "Medical Inventor":
         return <div>Medical Inventory Content</div>;
       default:
         return (

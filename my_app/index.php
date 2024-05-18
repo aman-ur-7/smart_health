@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dummy PHP Page</title>
+    <title>Welcome to Smart Health</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -58,9 +58,9 @@
 </head>
 <body>
     <div class="container">
-        <h1>Hello, Teacher!</h1>
-        <p>This is a powerful dummy PHP page to demonstrate adding PHP files to the project.</p>
-        <p>You can write PHP code here to perform server-side tasks and interact with your React application.</p>
+        <h1>Welcome to Smart Health</h1>
+        <p>This is a powerful dummy PHP page created to demonstrate the capabilities of our Smart Health system.</p>
+        <p>You can utilize PHP to perform server-side tasks and interact seamlessly with our React-based health prediction application.</p>
         <div class="php-code">
             <?php
             // Sample PHP code
@@ -68,7 +68,7 @@
             echo "<p>Welcome, $name!</p>";
             ?>
         </div>
-        <p class="welcome-message">Feel free to explore the possibilities!</p>
+        <p class="welcome-message">Feel free to explore the possibilities and witness the innovation in healthcare technology!</p>
     </div>
 </body>
 </html>
